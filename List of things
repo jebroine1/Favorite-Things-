@@ -9,3 +9,7 @@ My list
 8. Being with my family
 9. Gaming 
 10. Going on walks
+
+
+git add favorites.txt
+git commit -m "Added 10 favorite things to favorites.txt"
