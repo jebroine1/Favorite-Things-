@@ -1,0 +1,12 @@
+My list
+1. Read my bible and pray
+2. I love to run track and lift
+3. I love coding
+4. Listen to music
+5. hanging out with friends
+6. Buying shoes
+7. Making youtube videos
+
+nano favorites.txt
+git add favorites.txt
+git commit -m "Removed 3 items from favorites list"
