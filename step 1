@@ -1,0 +1,4 @@
+echo "My Favorite Things" > favorites.txt
+git add favorites.txt
+git commit -m "things i like to do"
+
